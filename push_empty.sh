@@ -1,4 +1,4 @@
-commit_name="v0.0.0"
+commit_name="v0.12.1"
 
 cd $PWD
 git commit --allow-empty -m $commit_name
